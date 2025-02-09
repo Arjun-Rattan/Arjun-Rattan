@@ -1,6 +1,6 @@
 Hi I'm Arjun 👋
 
-You can find me on [LinkedIn]([url](https://www.linkedin.com/in/arjun-rattan1/))
+You can find me on [LinkedIn]((https://www.linkedin.com/in/arjun-rattan1/))
 <!--
 **Arjun-Rattan/Arjun-Rattan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
